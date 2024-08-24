@@ -1,5 +1,8 @@
 # Python-for-Finance-Repo
 
+https://notes.yeshiwei.com/_downloads/2ce792aff8596ea9453a9714f39d957a/Machine_Learning_for_Algorithmic_Trading_Predictive.pdf
+
+
 In this course, I learnt many useful package in python that frquently used in quantitative finance field, including:
 
 1.NumPy for High Speed Numerical Processing
