@@ -1,5 +1,7 @@
 # Python-for-Finance-Repo
 
+found this book with osint
+
 https://notes.yeshiwei.com/_downloads/2ce792aff8596ea9453a9714f39d957a/Machine_Learning_for_Algorithmic_Trading_Predictive.pdf
 
 
