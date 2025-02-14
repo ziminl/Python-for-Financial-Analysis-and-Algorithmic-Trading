@@ -5,6 +5,12 @@ found this book with osint
 https://notes.yeshiwei.com/_downloads/2ce792aff8596ea9453a9714f39d957a/Machine_Learning_for_Algorithmic_Trading_Predictive.pdf
 
 
+
+
+
+
+
+
 In this course, I learnt many useful package in python that frquently used in quantitative finance field, including:
 
 1.NumPy for High Speed Numerical Processing
@@ -50,3 +56,9 @@ Also this course covers many classic financial analytic methods:
 
 And finally, it teaches how to implement the above algorithms and fit them into Quantopian.
 
+
+# links
+
+8
+
+https://www.statsmodels.org/stable/index.html
